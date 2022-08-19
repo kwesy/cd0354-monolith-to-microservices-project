@@ -29,7 +29,7 @@ Create a PostgreSQL database either locally or on AWS RDS. The database is used 
 
 Once your database is set up, set the config values for environment variables prefixed with `POSTGRES_` in `set_env.sh`.
 * If you set up a local database, your `POSTGRES_HOST` is most likely `localhost`
-* If you set up an RDS database, your `POSTGRES_HOST` is most likely in the following format: `***.****.us-west-1.rds.amazonaws.com`. You can find this value in the AWS console's RDS dashboard.
+* If you set up an RDS database, your `POSTGRES_HOST` is most likely in the following format: `***.****.us-west-1.rds.amazonaws.com`.  You can find this value in the AWS console's RDS dashboard.
 
 
 ### 2. S3
