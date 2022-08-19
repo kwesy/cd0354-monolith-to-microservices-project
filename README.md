@@ -78,7 +78,7 @@ Launch the frontend app locally.
     ```bash
     npx eslint --ext .js,.ts src/
     ```
-    To have your code fixed automatically, run
+    To have your code fixed automatically, run.
     ```bash
     npx eslint --ext .js,.ts src/ --fix
     ```
